@@ -1,0 +1,16 @@
+cypress.env.json
+node_modules
+coverage
+videos
+screenshots
+report*.json
+.DS_Store
+.env
+.local_path
+.idea/
+.vscode/
+cypress/screenshots
+cypress/videos
+cypress/report*.json
+cypress/downloads
+cypress/fixtures
